@@ -14,13 +14,21 @@ FASTQ file and barcode reference FASTA file and outputs a plot and a .txt file
 of barcode counts.
 
 optional arguments:
+
   -h, --help            show this help message and exit
+
   -i , --input_folder   Input folder containing raw FASTQ files [required].
+  
   -r , --reference_file 
                         Input reference FASTA file [required].
+  
   -l , --length         Barcode length (default: 14).
+  
   -o , --output_dir     Output directory for barcode count file (default: same
                         folder as input file)
+  
   -m , --mismatches_allowed 
                         Number of mismatches to barcode reference sequences
                         allowed (default 2)
+## Usage example
+TaG-EM_barcode_analysis.py -i <PathToFile/InputFileName> -r <PathToFile/ReferenceFileName>
