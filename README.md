@@ -6,6 +6,8 @@ Python 3
 
 BioPython
 
+cutadapt
+
 ## Usage
 usage: TaG-EM_barcode_analysis.py [-h] [-i] [-r] [-l] [-o] [-m]
 
