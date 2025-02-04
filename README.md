@@ -1,7 +1,6 @@
 # TaG-EM Code and Files
 This repository contains code and reference files related to the following publication:
-Mendana Jorge Blanco, Donovan Margaret, Gengelbach Lindsey, Auch Benjamin, Garbe John, Gohl Daryl M. (2023) Deterministic Genetic Barcoding for Multiplexed Behavioral and Single-Cell Transcriptomic Studies eLife 12:RP88334
-https://doi.org/10.7554/eLife.88334.1
+Mendana, Jorge Blanco, Donovan, Margaret, O'Brien, Lindsey Gengelbach, Auch, Benjamin, Garbe, John, Gohl, Daryl M. (2025) Deterministic Genetic Barcoding for Multiplexed Behavioral and Single-Cell Transcriptomic Studies. eLife2025;12:RP88334 DOI: https://doi.org/10.7554/eLife.88334.3
 
 ## TaG-EM Barcode Analysis Script
 TaG-EM analysis scripts and files
